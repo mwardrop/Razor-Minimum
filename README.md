@@ -3,7 +3,7 @@ Razor Minimum
 
 This is the minimum requirements to get IIS to execute a Razor template file (.cshtml).
 
-Use this with IIS Express to quickly demo code without setting up an entire MVC project. 
+Use this with IIS Express to quickly demo C# code without having to spool up an ASP.NET project in Visual Studio.
 
 **Instructions:**
 
